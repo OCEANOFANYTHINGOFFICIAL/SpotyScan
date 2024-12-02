@@ -26,8 +26,8 @@ def print_colored(message, color=Fore.WHITE):
     print(f"{color}{message}")
 
 # Spotify API credentials
-CLIENT_ID = "f37355201b474f9cb9f5e267361fd3ca"
-CLIENT_SECRET = "d2b1a6c7c4d648398fae1f45c8f670b0"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 # Function to get Spotify API access token
 def get_access_token():
